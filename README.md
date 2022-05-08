@@ -16,7 +16,7 @@ The downloaded ones are:
 ## Install
 
 ### &nbsp;&nbsp;&nbsp; Supported Python version
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python version used in this project: 3.6
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Python version used in this project: 3.8
 
 ### &nbsp;&nbsp;&nbsp; Libraries used
 
