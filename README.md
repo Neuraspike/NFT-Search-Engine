@@ -20,9 +20,7 @@ The downloaded ones are:
 
 ### &nbsp;&nbsp;&nbsp; Libraries used
 
-> *  matplotlib==3.3.4
-> *  pandas==1.1.5
-> *  scikit-learn==0.24.2
+> *  scipy~=1.7.1
 > *  numpy==1.17.4
 > *  opencv-contrib-python
 
