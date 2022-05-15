@@ -33,8 +33,8 @@ Otherwise, use the following command to install the packages according to the co
 
 For a more detailed explanation of the code, visit either of the following links:
 
-> * Blog post: <a href="https://neuraspike.com/blog/nft-search-engine-python-opencv/" rel="nofollow">here</a> 
-> * Youtube:  <a href="https://www.youtube.com/watch?v=y2RNPnaLcEc" rel="nofollow">here</a> 
+> * Blog post: <a href="https://neuraspike.com/blog/nft-search-engine-python-opencv/">here</a> 
+> * Youtube:  <a href="https://www.youtube.com/watch?v=y2RNPnaLcEc">here</a> 
 
 
 ## License
